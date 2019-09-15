@@ -1,0 +1,19 @@
+#+options: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
+#+options: html-scripts:t html-style:t html5-fancy:nil tex:t
+#+html_doctype: xhtml-strict
+#+html_container: div
+#+description:
+#+keywords:
+#+html_link_home:
+#+html_link_up:
+#+html_mathjax:
+#+html_head:
+#+html_head_extra:
+#+subtitle:
+#+infojs_opt:
+#+creator: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.1 (<a href="https://orgmode.org">Org</a> mode 9.2.6)
+#+latex_header:
+
+* Purpose of this site
+
+Only a test of [[https://github.com/matteobrusa/Password-protection-for-static-pages][password protecion of static pages.]] If you can read this, it seems to work:-). 
